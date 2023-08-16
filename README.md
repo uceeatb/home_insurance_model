@@ -1,7 +1,5 @@
 # Home insurance lapse predition - Interview Task
 
-Developer: Pravek Patel
-
 The following repository contains code for an interview task, in which a predictive model has been build on Home Insurance data.
 
 The main code is stored in eSure_task_PravekPatel.ipynb , with all other code stored in custom modules.
